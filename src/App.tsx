@@ -148,8 +148,8 @@ function App() {
                   </p>
                   <br />
                   <p className="text-gray-400 text-[14px]">
-                    Built a clinic management app for healthcare clinics using
-                    multiple servers communicating through gRPC and different types of clients.
+                    Built a clinic management app using <span className = "text-white">multiple servers </span>
+                    communicating through gRPC and different types of clients. Patients can <span className = "text-white">book appointments </span> and doctors can <span className = "text-white">manage their schedules and patients.</span> 
                   </p>
                   <div className="flex flex-wrap gap-2 mt-8">
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
@@ -186,7 +186,7 @@ function App() {
                   </p>
                   <br />
                   <p className="text-gray-400 text-[14px]">
-                    Built a subscriptions management app on mobile iOS devices as a personal project to discover mobile development
+                    Built a subscriptions management app for <span className = "text-white">mobile iOS devices </span> as a personal project to discover mobile development
                     and SwiftUI.
                   </p>
                   <div className="flex flex-wrap gap-2 mt-8">
@@ -221,11 +221,10 @@ function App() {
                   </p>
                   <br />
                   <p className="text-gray-400 text-[14px]">
-                    Took part as a backend developer in a multiple departments
+                    Took part as a <span className = "text-white">backend developer </span> in a multiple departments
                     project where we created a smart plant pot that can be
-                    controlled via a web application. Auto-watering was
-                    implemented using a water pump and an ML Model to predict
-                    the soil moisture.
+                    controlled via a web application. <span className = "text-white">Auto-wattering </span> was
+                    implemented using a water pump and an ML Model to <span className = "text-white">predict soil moisture. </span>
                   </p>
                   <div className="flex flex-wrap gap-2 mt-8">
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
@@ -258,22 +257,22 @@ function App() {
                 </div>
                 <div className="w-full">
                   <p className="text-lg group-hover:text-[#6fc0b4] transition-colors duration-200">
-                    F1 Race Winner Predictor
+                    F1 Pole Position Driver Predictor - ONGOING
                   </p>
                   <br />
                   <p className="text-gray-400 text-[14px]">
-                    Developed a machine learning model to predict the winner of
-                    a Formula 1 race using historical data from the 1950-2024 seasons.
+                    Developing a <span className = "text-white">machine learning model </span> to predict the pole position of
+                    a Formula 1 qualifying session using historical data from the 1950-2024 seasons. Planning on expanding to <span className = "text-white">predicting race winners </span> as well.
                   </p>
                   <div className="flex flex-wrap gap-2 mt-8">
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
                       Python
                     </p>
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
-                      Pandas
+                      Sklearn
                     </p>
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
-                      TensorFlow
+                      ML Models
                     </p>
                   </div>
                 </div>
