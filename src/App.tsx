@@ -237,6 +237,9 @@ function App() {
                       MongoDB
                     </p>
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
+                      JWT
+                    </p>
+                    <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
                       Docker
                     </p>
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
