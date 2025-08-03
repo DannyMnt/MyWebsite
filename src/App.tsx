@@ -118,7 +118,7 @@ function App() {
         <section id="about" className="w-full lg:max-w-none">
           <div className="space-y-6">
             <p className="text-gray-400 text-lg text-[17px]">
-              I am a 4th semester software engineering student in Denmark,
+              I am a 5th semester software engineering student in Denmark,
               originally from Romania
             </p>
             <p className="text-gray-400 text-lg text-[17px]">
