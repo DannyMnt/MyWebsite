@@ -263,12 +263,12 @@ function App() {
                 </div>
                 <div className="w-full">
                   <p className="text-lg group-hover:text-[#6fc0b4] transition-colors duration-200">
-                    F1 Pole Position Driver Predictor - ONGOING
+                    F1 Race Winner Predictor
                   </p>
                   <br />
                   <p className="text-gray-400 text-[14px]">
-                    Developing a <span className = "text-white">machine learning model </span> to predict the pole position of
-                    a Formula 1 qualifying session using historical data from the 1950-2024 seasons. Planning on expanding to <span className = "text-white">predicting race winners </span> as well.
+                    Developing a <span className = "text-white">machine learning model </span> to predict the winner of
+                    a Formula 1 race using historical data from the 1950-2024 seasons. <span className = "text-white">Custom engineered features </span> were used to train the model.
                   </p>
                   <div className="flex flex-wrap gap-2 mt-8">
                     <p className="backdrop-blur-sm bg-[#1a2f49] px-4 py-1 rounded-2xl text-[#6fc0b4] text-[14px]">
